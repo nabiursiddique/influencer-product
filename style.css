@@ -156,6 +156,10 @@ body{
     }
     .text-and-button{
         text-align: center;
+        width: 90%;
+    }
+    .banner-image{
+        width: 90%;
     }
     
     /* company logos section  */
